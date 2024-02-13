@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pomeridiano", "Pomeridiano.csproj", "{1698932C-2FD8-4B28-A1A6-2F763C8C55F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1698932C-2FD8-4B28-A1A6-2F763C8C55F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1698932C-2FD8-4B28-A1A6-2F763C8C55F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1698932C-2FD8-4B28-A1A6-2F763C8C55F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1698932C-2FD8-4B28-A1A6-2F763C8C55F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26B8454-7513-434B-97A7-AD1D33F647EB}
+	EndGlobalSection
+EndGlobal
